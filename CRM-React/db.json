@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "UFT",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Prueba",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Jose",
+      "empresa": "Dronena",
+      "email": "jose.poleo.2a@gmail.com",
+      "telefono": "04145039591",
+      "notas": "Analista de Soporte Técnico ",
+      "id": 6
+    }
+  ]
+}
